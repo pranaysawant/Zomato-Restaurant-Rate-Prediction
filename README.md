@@ -34,7 +34,7 @@ We will try to reduce Mean Square Error ie **MSE** as minimum as possible. So it
 ## Model Compare
 
 |                Model                |    MSE    | Accuracy |
-+-------------------------------------+-----------+----------+
+|-------------------------------------|-----------|----------|
 |          Linear Regression          |  0.17607  | 24.96517 |
 |       Random Forest Regressor       |  0.12833  | 45.30829 |
 |            SGD Regressor            | 1.299e+31 | 11.2578  |
