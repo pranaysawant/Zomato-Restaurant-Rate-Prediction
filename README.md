@@ -33,6 +33,9 @@ Here we suppose to predicted rating of restaurant, so it is basically **Regressi
 We will try to reduce Mean Square Error ie **MSE** as minimum as possible. So it is **Regression** problem reducing **MSE**.
 - Ideal MSE is 0.
 
+## 2. Data Acquire:
+aource : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+
 ## Model Compare
 
 |                Model                |    MSE    | Accuracy |
