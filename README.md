@@ -1,5 +1,7 @@
 # Zomato-Restaurant-Rate-Prediction
 
+<img src="zomato.jpg">
+
 ## 1. Business Problem
 
 ## 1.1 Problem Description
