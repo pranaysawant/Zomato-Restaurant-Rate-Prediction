@@ -38,9 +38,9 @@ aource : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 ## Model Compare
 
----------------------------------------------------------------
++-------------------------------------------------+-----------+
 |                      Model                      |    MSE    |
----------------------------------------------------------------
++-------------------------------------------------+-----------+
 |         SGD Regressor 7 ONEHOT Features         | 8.091e+30 |
 |      SGD Regressor Response coded Features      | 6.926e+29 |
 |         SGD Regressor 5 ONEHOT Features         | 2.069e+28 |
@@ -50,6 +50,6 @@ aource : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 |    Random Forest Regressor 7 ONEHOT Features    |  0.01404  |
 |    Linear Regression Response coded Features    |  0.00948  |
 | Random Forest Regressor Response coded Features |  0.00353  |
----------------------------------------------------------------
++-------------------------------------------------+-----------+
 
 
