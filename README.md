@@ -38,12 +38,17 @@ aource : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 ## Model Compare
 
-|                Model                |    MSE    | Accuracy |
-|-------------------------------------|-----------|----------|
-|          Linear Regression          |  0.17607  | 24.96517 |
-|       Random Forest Regressor       |  0.12833  | 45.30829 |
-|            SGD Regressor            | 1.299e+31 | 11.2578  |
-|    Tune Random Forest Regressor     |  0.03597  | 84.7302  |
-|   OneHot Random Forest Regressor    |  0.015945 | 90.69061 |
-| Tune OneHot Random Forest Regressor |  0.01403  | 91.80452 |
++-------------------------------------------------+-----------+
+|                      Model                      |    MSE    |
++-------------------------------------------------+-----------+
+|         SGD Regressor 7 ONEHOT Features         | 8.091e+30 |
+|      SGD Regressor Response coded Features      | 6.926e+29 |
+|         SGD Regressor 5 ONEHOT Features         | 2.069e+28 |
+|       Linear Regression 5 ONEHOT Features       |   0.1278  |
+|    Random Forest Regressor 5 ONEHOT Features    |  0.03485  |
+|       Linear Regression 7 ONEHOT Features       |  0.04308  |
+|    Random Forest Regressor 7 ONEHOT Features    |  0.01404  |
+|    Linear Regression Response coded Features    |  0.00948  |
+| Random Forest Regressor Response coded Features |  0.00353  |
++-------------------------------------------------+-----------+
 
