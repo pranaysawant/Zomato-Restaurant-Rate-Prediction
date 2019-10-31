@@ -2,6 +2,9 @@
 
 <img src="zomato.jpg">
 
+You can find blog related to this case study from [here](https://medium.com/@pranaysawant22/zomato-restaurant-rate-prediction-2093cb685430).
+
+
 ## 1. Business Problem
 
 ## 1.1 Problem Description
