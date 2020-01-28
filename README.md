@@ -43,6 +43,7 @@ aource : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 |                      Model                      |    MSE    |
 |  ---------------------------------------------- | --------- |
+|         Random Model                            | 2.12 |
 |         SGD Regressor 7 ONEHOT Features         | 8.091e+30 |
 |      SGD Regressor Response coded Features      | 6.926e+29 |
 |         SGD Regressor 5 ONEHOT Features         | 2.069e+28 |
